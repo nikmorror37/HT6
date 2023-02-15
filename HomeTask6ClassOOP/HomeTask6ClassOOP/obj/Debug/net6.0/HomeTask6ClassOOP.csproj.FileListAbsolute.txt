@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\bin\Debug\net6.0\HomeTask6ClassOOP.exe
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\bin\Debug\net6.0\HomeTask6ClassOOP.deps.json
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\bin\Debug\net6.0\HomeTask6ClassOOP.runtimeconfig.json
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\bin\Debug\net6.0\HomeTask6ClassOOP.dll
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\bin\Debug\net6.0\HomeTask6ClassOOP.pdb
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.AssemblyInfo.cs
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.dll
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\refint\HomeTask6ClassOOP.dll
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.pdb
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\HomeTask6ClassOOP.genruntimeconfig.cache
+C:\Users\Nick\Documents\HT6\HomeTask6ClassOOP\HomeTask6ClassOOP\obj\Debug\net6.0\ref\HomeTask6ClassOOP.dll
