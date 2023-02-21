@@ -14,14 +14,25 @@ namespace HomeTask6ClassOOP
 
         string name;
 
-        public Phone(int initNumber, string initModel, int initWeight) 
+        public Phone(int initNumber, string initModel, int initWeight)
         {
-            number = initNumber; 
-            model = initModel; 
+            number = initNumber;
+            model = initModel;
             weight = initWeight;
-                
-        }   
-        
+
+        }
+
+        //public Phone(int initNumber, string initModel) ////конструктор с двумя параметрами
+        //{
+        //    number = initNumber;
+        //    model = initModel;
+        //}
+
+
+        public Phone (int initNumber, string initModel) : this(initNumber, initModel, 0) //из конструктора с 3-мя парам-ми вызвать конструктор с 2-мя
+        {
+
+        }
         public void Characteristics()
         {
             Console.WriteLine($"Номер телефона {number}, модель телефона {model}, вес телефона {weight}");
@@ -32,15 +43,26 @@ namespace HomeTask6ClassOOP
             name = initName; 
             Console.WriteLine($"\nCalling {name}");
         }
-        
+
+        public void ReceiveCall(string initName, int initNumber)
+        {
+            name = initName;
+            number = initNumber;
+            Console.WriteLine($"\nCalling +{number} {name}");
+        }
+
         public int GetNumber() 
         {
             return number;
         }
         
+        public void SendMessage(int initNumber)
+        {
+            number = initNumber;
+            Console.WriteLine($"\nMessage from {number}");
+        }
         
-        
-        
+
         
         //public Phone()   //конструктор без параметров 
         //{         
