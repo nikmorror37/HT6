@@ -39,17 +39,27 @@ namespace HomeTask6ClassOOP
 
             //CreditCard HomeTask after LESSON7
 
-            CreditCard mastercard = new CreditCard(345678, 1000);
-            CreditCard visa = new CreditCard(123321, 2500);
-            CreditCard unionpay = new CreditCard(987654, 5000);
+            //CreditCard mastercard = new CreditCard(345678, 1000);
+            //CreditCard visa = new CreditCard(123321, 2500);
+            //CreditCard unionpay = new CreditCard(987654, 5000);
 
-            mastercard.Sum1();
-            visa.Sum1();
-            unionpay.Difference1();
+            //mastercard.Sum1();
+            //visa.Sum1();
+            //unionpay.Difference1();
 
-            mastercard.CurrentInfo1();
-            visa.CurrentInfo1();
-            unionpay.CurrentInfo1();
+            //mastercard.CurrentInfo1();
+            //visa.CurrentInfo1();
+            //unionpay.CurrentInfo1();
+
+
+            //Hospital HomeTask after LESSON7
+
+            Console.Write("Введите код направления на лечение: ");
+            int applyCode = Convert.ToInt32(Console.ReadLine());    
+            Patient patient1 = new Patient(applyCode);
+            patient1.SelectDoctor();
+
+
         }
     }
 }

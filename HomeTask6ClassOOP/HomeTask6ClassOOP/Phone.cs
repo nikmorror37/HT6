@@ -14,25 +14,17 @@ namespace HomeTask6ClassOOP
 
         string name;
 
-        public Phone(int initNumber, string initModel, int initWeight)
+        public Phone(int initNumber, string initModel, int initWeight) : this(initNumber, initModel)
+        {
+            weight = initWeight;
+        }
+
+        public Phone(int initNumber, string initModel) ////конструктор с двумя параметрами
         {
             number = initNumber;
             model = initModel;
-            weight = initWeight;
-
         }
 
-        //public Phone(int initNumber, string initModel) ////конструктор с двумя параметрами
-        //{
-        //    number = initNumber;
-        //    model = initModel;
-        //}
-
-
-        public Phone (int initNumber, string initModel) : this(initNumber, initModel, 0) //из конструктора с 3-мя парам-ми вызвать конструктор с 2-мя
-        {
-
-        }
         public void Characteristics()
         {
             Console.WriteLine($"Номер телефона {number}, модель телефона {model}, вес телефона {weight}");
